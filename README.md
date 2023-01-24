@@ -73,7 +73,7 @@ for more information
 	
 # Other resets
 
-	```shell
+	```
 	sudo systemctl reload nginx
 	sudo systemctl restart nginx
 	sudo service uwsgi reload
