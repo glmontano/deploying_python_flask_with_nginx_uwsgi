@@ -60,11 +60,11 @@ for more information
 
 # See status
 
-	`sudo systemctl status nginx.service`
+>`sudo systemctl status nginx.service`
 
 # Restart when code changes have been made
 
-	`sudo service <service-name> restart`
+>`sudo service gusmontanocom restart`
 	
 # View error logs
 
