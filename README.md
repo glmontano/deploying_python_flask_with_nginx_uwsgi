@@ -71,5 +71,11 @@ for more information
 	`cd var/log/nginx`
 	`cat error.log`
 	
-	
+# Other resets
+
+	```shell
+	sudo systemctl reload nginx
+	sudo systemctl restart nginx
+	sudo service uwsgi reload
+	```
 	
