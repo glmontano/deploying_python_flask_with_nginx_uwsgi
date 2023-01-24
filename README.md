@@ -52,11 +52,13 @@ for more information
 
 	# Link NGINX to server block, check for errors and other stuff
 
+```
   sudo ln -s /etc/nginx/sites-available/gusmontanocom /etc/nginx/sites-enabled
   sudo nginx -t
   sudo systemctl restart nginx
   sudo ufw delete allow 5001
   sudo ufw allow 'Nginx Full'
+```
 
 # See status
 
