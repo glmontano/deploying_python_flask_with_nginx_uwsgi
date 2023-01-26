@@ -76,8 +76,9 @@ for more information
 # Other resets
 
 	```
+	systemctl daemon-reload
 	sudo systemctl reload nginx
 	sudo systemctl restart nginx
-	sudo service uwsgi reload
+	sudo service gusmontanocom restart
 	```
 	
