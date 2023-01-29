@@ -73,6 +73,14 @@ for more information
 	`cd var/log/nginx`
 	`cat error.log`
 	
+# UWSGI Start and stop
+	
+	```
+	sudo systemctl start gusmontanocom
+	sudo systemctl enable gusmontanocom
+	sudo systemctl status gusmontanocom
+	```
+	
 # Other resets
 
 	```
