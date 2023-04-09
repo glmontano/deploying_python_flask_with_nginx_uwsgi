@@ -92,3 +92,11 @@ for more information
 	
 	```
 	
+# Git Commands
+
+For gusmontanocom
+
+`git push https://github.com/glmontano/gusmontanocom.git`
+
+`git pull origin main`
+
