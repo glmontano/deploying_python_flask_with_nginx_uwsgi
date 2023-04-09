@@ -70,8 +70,9 @@ for more information
 	
 # View error logs
 
-	`cd var/log/nginx`
-	`cat error.log`
+`cd var/log/nginx`
+`cat error.log`
+`sudo journalctl -u gusmontanocom -f`
 	
 # UWSGI Start and stop
 	
