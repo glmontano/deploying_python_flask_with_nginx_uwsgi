@@ -96,7 +96,7 @@ for more information
 
 For gusmontanocom
 
-`git push https://github.com/glmontano/gusmontanocom.git`
-
-`git pull origin main`
+	`git push https://github.com/glmontano/gusmontanocom.git`
+	
+	`git pull origin main`
 
